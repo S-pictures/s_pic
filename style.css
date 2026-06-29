@@ -1,4 +1,22 @@
 /* ========================================
+   DESIGN SYSTEM
+======================================== */
+
+:root{
+    --color-bg: #F2ECE2;
+    --color-text: #3F342A;
+    --color-accent: #B33A2E;
+    --color-white: #FFFFFF;
+
+    --font-serif: "Cormorant Garamond", serif;
+    --font-sans: "Pretendard", sans-serif;
+
+    --container: 1200px;
+    --transition: .4s ease;
+}
+
+
+/* ========================================
    RESET
 ======================================== */
 
